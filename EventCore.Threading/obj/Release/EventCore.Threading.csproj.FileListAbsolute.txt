@@ -1,0 +1,10 @@
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\EventCore.Threading\bin\Release\EventCore.Threading.dll
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\EventCore.Threading\bin\Release\EventCore.Threading.pdb
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\EventCore.Threading\obj\Release\EventCore.Threading.dll
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\EventCore.Threading\obj\Release\EventCore.Threading.pdb
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\EventCore.Threading\obj\Release\EventCore.Threading.csprojResolveAssemblyReference.cache
+C:\Users\SplitIce\Dropbox\Projects\X4B\X4B.Net\EventCore.Threading\bin\Release\EventCore.Threading.dll
+C:\Users\SplitIce\Dropbox\Projects\X4B\X4B.Net\EventCore.Threading\bin\Release\EventCore.Threading.pdb
+C:\Users\SplitIce\Dropbox\Projects\X4B\X4B.Net\EventCore.Threading\obj\Release\EventCore.Threading.csprojResolveAssemblyReference.cache
+C:\Users\SplitIce\Dropbox\Projects\X4B\X4B.Net\EventCore.Threading\obj\Release\EventCore.Threading.dll
+C:\Users\SplitIce\Dropbox\Projects\X4B\X4B.Net\EventCore.Threading\obj\Release\EventCore.Threading.pdb

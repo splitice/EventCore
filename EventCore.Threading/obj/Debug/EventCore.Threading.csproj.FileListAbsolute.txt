@@ -1,0 +1,5 @@
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Threading\bin\Debug\EventCore.Threading.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Threading\bin\Debug\EventCore.Threading.pdb
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Threading\obj\Debug\EventCore.Threading.csprojResolveAssemblyReference.cache
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Threading\obj\Debug\EventCore.Threading.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Threading\obj\Debug\EventCore.Threading.pdb

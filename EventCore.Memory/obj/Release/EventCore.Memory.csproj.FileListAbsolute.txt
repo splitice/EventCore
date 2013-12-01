@@ -1,0 +1,13 @@
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\EventCore.Memory\bin\Release\EventCore.Memory.dll
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\EventCore.Memory\bin\Release\EventCore.Memory.pdb
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\EventCore.Memory\bin\Release\nunit.framework.dll
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\EventCore.Memory\bin\Release\nunit.framework.xml
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\EventCore.Memory\obj\Release\EventCore.Memory.dll
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\EventCore.Memory\obj\Release\EventCore.Memory.pdb
+C:\Users\SplitIce\Dropbox\Projects\X4B\X4B.Net\EventCore.Memory\bin\Release\EventCore.Memory.dll
+C:\Users\SplitIce\Dropbox\Projects\X4B\X4B.Net\EventCore.Memory\bin\Release\EventCore.Memory.pdb
+C:\Users\SplitIce\Dropbox\Projects\X4B\X4B.Net\EventCore.Memory\bin\Release\nunit.framework.dll
+C:\Users\SplitIce\Dropbox\Projects\X4B\X4B.Net\EventCore.Memory\bin\Release\nunit.framework.xml
+C:\Users\SplitIce\Dropbox\Projects\X4B\X4B.Net\EventCore.Memory\obj\Release\EventCore.Memory.csprojResolveAssemblyReference.cache
+C:\Users\SplitIce\Dropbox\Projects\X4B\X4B.Net\EventCore.Memory\obj\Release\EventCore.Memory.dll
+C:\Users\SplitIce\Dropbox\Projects\X4B\X4B.Net\EventCore.Memory\obj\Release\EventCore.Memory.pdb

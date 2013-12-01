@@ -1,0 +1,7 @@
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Memory\bin\Debug\EventCore.Memory.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Memory\bin\Debug\EventCore.Memory.pdb
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Memory\bin\Debug\nunit.framework.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Memory\bin\Debug\nunit.framework.xml
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Memory\obj\Debug\EventCore.Memory.csprojResolveAssemblyReference.cache
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Memory\obj\Debug\EventCore.Memory.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Memory\obj\Debug\EventCore.Memory.pdb

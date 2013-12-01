@@ -1,0 +1,13 @@
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Networking\bin\Debug\EventCore.Networking.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Networking\bin\Debug\EventCore.Networking.pdb
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Networking\bin\Debug\EventCore.Common.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Networking\bin\Debug\EventCore.Memory.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Networking\bin\Debug\Microsoft.Contracts.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Networking\bin\Debug\Mono.Posix.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Networking\bin\Debug\nunit.framework.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Networking\bin\Debug\EventCore.Common.pdb
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Networking\bin\Debug\EventCore.Memory.pdb
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Networking\bin\Debug\nunit.framework.xml
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Networking\obj\Debug\EventCore.Networking.csprojResolveAssemblyReference.cache
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Networking\obj\Debug\EventCore.Networking.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Networking\obj\Debug\EventCore.Networking.pdb

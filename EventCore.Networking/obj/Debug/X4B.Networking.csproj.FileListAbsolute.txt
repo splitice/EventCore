@@ -1,0 +1,13 @@
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\X4B.Networking\obj\Debug\X4B.Networking.csprojResolveAssemblyReference.cache
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\X4B.Networking\bin\Debug\X4B.Networking.dll
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\X4B.Networking\bin\Debug\X4B.Networking.pdb
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\X4B.Networking\bin\Debug\Mono.Posix.dll
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\X4B.Networking\bin\Debug\X4B.Common.dll
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\X4B.Networking\bin\Debug\Microsoft.Contracts.dll
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\X4B.Networking\bin\Debug\X4B.Common.pdb
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\X4B.Networking\obj\Debug\X4B.Networking.dll
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\X4B.Networking\obj\Debug\X4B.Networking.pdb
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\X4B.Networking\bin\Debug\log4net.dll
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\X4B.Networking\bin\Debug\log4net.xml
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\X4B.Networking\bin\Debug\nunit.framework.dll
+C:\Users\SplitIce\Documents\Projects\X4B\X4B.Net\X4B.Networking\bin\Debug\nunit.framework.xml

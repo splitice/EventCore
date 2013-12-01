@@ -1,0 +1,6 @@
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Common\bin\Debug\EventCore.Common.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Common\bin\Debug\EventCore.Common.pdb
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Common\bin\Debug\Microsoft.Contracts.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Common\obj\Debug\EventCore.Common.csprojResolveAssemblyReference.cache
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Common\obj\Debug\EventCore.Common.dll
+C:\Users\SplitIce\Dropbox\Projects\OpenSource\EventCore\EventCore.Common\obj\Debug\EventCore.Common.pdb
